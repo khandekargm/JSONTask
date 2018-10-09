@@ -1,0 +1,45 @@
+{
+    "people": [
+              {
+              "id":1,
+              "name":"Amit Shinde",
+              "img":"img11.jpg",
+              "designation" : "Project Manager"
+              },
+              { "id":2,
+              "name":"Manali Bhosale",
+              "img":"img22.jpg",
+              "designation" : "Technology Lead"
+              
+              },
+              { "id":3,
+              "name":"Pankaj Marathe",
+              "img":"img33.jpg",
+              "designation" : "System Analyst"
+              },
+              {
+              "id":4,
+              "name":"Amol Shah",
+              "img":"img4.jpg",
+              "designation" : "Technology Expert"
+              },
+              { "id":5,
+              "name":"Raju Kelkar",
+              "img":"img5.jpg",
+              "designation" : "Software Developer"
+              
+              },
+              { "id":6,
+              "name":"Nil Anjali",
+              "img":"img6.jpg",
+              "designation" : "Technology Analyst"
+              
+              }
+              
+              
+              
+              
+              
+              
+              ]
+}

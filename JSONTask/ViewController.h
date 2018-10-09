@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NSObject+SBJson.h"
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController<UITabBarDelegate,UITableViewDataSource>
+{
+    __weak IBOutlet UITableView *tableview;
+    
+}
 
 @end
 
