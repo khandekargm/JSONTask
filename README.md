@@ -6,5 +6,7 @@ If you are searching for local JSON parsing and displaying in Tableview with cus
 Cheerss!!!!
 
 ![Screenshot](https://ibb.co/d1uVg9)
-
+<p>
+    <img src="https://ibb.co/d1uVg9" width="220" height="240" />
+</p>
 //https://ibb.co/d1uVg9
